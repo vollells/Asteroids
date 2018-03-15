@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Counter
+comment0.text=\r\n\ Counter\ that\ displays\ a\ text\ and\ number.\r\n\ \r\n\ @author\ Michael\ Kolling\r\n\ @version\ 1.0.1\r\n
+comment1.params=
+comment1.target=Counter()
+comment2.params=prefix
+comment2.target=Counter(java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=score
+comment4.target=void\ add(int)
+comment5.params=
+comment5.target=int\ getValue()
+comment6.params=
+comment6.target=void\ updateImage()
+comment6.text=\r\n\ Make\ the\ image\r\n
+numComments=7
